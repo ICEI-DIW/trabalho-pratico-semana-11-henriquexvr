@@ -4,7 +4,6 @@
   "description": "Back end com JSONServer. Projeto da disciplina de Desenvolvimento de Interfaces Web de vários cursos da PUC Minas",
   "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx json-server ./db/db.json"
   },
   "keywords": [],

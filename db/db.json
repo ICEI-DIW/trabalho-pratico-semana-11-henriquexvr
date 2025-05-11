@@ -1,18 +1,30 @@
 {
-  "usuarios": [
-    {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
-    },
-    {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
-    }
-  ]
+    "receitas" : [
+            {
+            "id": 1,
+            "titulo": "Bolo de Chocolate",
+            "descricao": "Modo de preparo de um delicioso bolo de chocolate, macio e cheio de sabor, perfeito para qualquer momento do dia!",
+            "destaque": false,
+            "ingredientes": [
+                "2 xícaras de farinha de trigo",
+                "1 xícara de açúcar",
+                "1 xícara de chocolate em pó",
+                "1 xícara de leite",
+                "1/2 xícara de óleo",
+                "3 ovos",
+                "1 colher de sopa de fermento em pó",
+                "1 pitada de sal"
+            ],
+            "modoPreparo": [
+                "Pré-aqueça o forno a 180°C.",
+                "Em uma tigela grande, misture a farinha de trigo, o açúcar, o chocolate em pó e o sal.",
+                "Adicione o leite, o óleo e os ovos à mistura seca. Mexa até obter uma massa homogênea.",
+                "Por último, adicione o fermento em pó e misture delicadamente.",
+                "Despeje a massa em uma forma untada e enfarinhada.",
+                "Leve ao forno pré-aquecido e asse por aproximadamente 40 minutos, ou até que um palito inserido no centro do bolo saia limpo.",
+                "Retire do forno, espere esfriar e sirva."
+            ],
+            "imagem": "assets/img/bolodechocolate.jpg"
+          }
+    ] 
 }
