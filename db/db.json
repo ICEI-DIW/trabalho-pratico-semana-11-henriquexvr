@@ -25,6 +25,321 @@
                 "Retire do forno, espere esfriar e sirva."
             ],
             "imagem": "assets/img/bolodechocolate.jpg"
-          }
+          },
+
+          {
+        "id": 2,
+        "titulo": "Bolo de Cenoura",
+        "descricao": "Modo de preparo de um delicioso bolo de cenoura, com uma incrivel calda de chocolate!",
+        "destaque": true,
+        "ingredientes": [
+            "1/2 xícara (chá) de óleo",
+            "4 ovos",
+            "2 e 1/2 xícaras (chá) de farinha de trigo",
+            "3 cenouras médias raladas",
+            "2 xícaras (chá) de açúcar",
+            "1 colher (sopa) de fermento em pó"
+        ],
+        "modoPreparo": [
+            "Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture.",
+            "Acrescente o açúcar e bata novamente por 5 minutos.",
+            "Em uma tigela ou na batedeira, adicione a farinha de trigo e depois misture novamente.",
+            "Acrescente o fermento e misture lentamente com uma colher.",
+            "Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos.",
+            "Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture."
+        ],
+        "imagem": "assets/img/bolodecenoura.png"
+    },
+
+    {
+        "id": 3,
+        "titulo": "Torta de Carne Seca",
+        "descricao": "Modo de preparo de uma torta de carne seca deliciosa, com recheio suculento e massa leve, perfeita para qualquer refeição!",
+        "destaque": false,
+        "ingredientes": [
+            "500g de carne seca dessalgada e desfiada",
+            "2 colheres de sopa de óleo",
+            "1 cebola média picada",
+            "2 dentes de alho picados",
+            "1 tomate picado",
+            "1 pimentão verde picado",
+            "1 xícara de azeitonas picadas",
+            "3 ovos cozidos picados",
+            "1 xícara de queijo mussarela ralado",
+            "1 xícara de requeijão",
+            "1 pacote de massa para torta (ou massa pronta)",
+            "Sal e pimenta a gosto",
+            "Orégano a gosto"
+        ],
+        "modoPreparo": [
+            "Pré-aqueça o forno a 180°C.",
+            "Em uma panela, aqueça o óleo e refogue a cebola e o alho até dourarem.",
+            "Adicione a carne seca desfiada e refogue por alguns minutos.",
+            "Acrescente o tomate, o pimentão e as azeitonas. Cozinhe até os legumes ficarem macios.",
+            "Tempere com sal, pimenta e orégano a gosto. Reserve.",
+            "Forre uma forma de torta com metade da massa, cobrindo o fundo e as laterais.",
+            "Espalhe o requeijão sobre a massa.",
+            "Distribua o refogado de carne seca sobre o requeijão.",
+            "Adicione os ovos cozidos picados e o queijo mussarela ralado por cima.",
+            "Cubra com a outra metade da massa, fechando bem as bordas.",
+            "Leve ao forno pré-aquecido e asse por aproximadamente 30 minutos, ou até a massa ficar dourada.",
+            "Retire do forno, espere esfriar um pouco e sirva."
+        ],
+        "imagem": "assets/img/tortacarneseca.jpg"
+    },
+
+    {
+        "id": 4,
+        "titulo": "Torta de Carne Seca",
+        "descricao": "Deliciosa torta de frango com massa caseira e recheio cremoso, perfeita para qualquer ocasião!",
+        "destaque": false,
+        "ingredientes": [
+            "3 xícaras de farinha de trigo",
+            "1 xícara de manteiga (ou margarina)",
+            "1 colher de chá de sal",
+            "1 colher de chá de fermento em pó",
+            "1 ovo",
+            "1/2 xícara de leite",
+            "500g de peito de frango desfiado",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "2 colheres de sopa de óleo",
+            "1 tomate picado (sem sementes)",
+            "1/2 xícara de milho verde",
+            "1/2 xícara de ervilhas",
+            "1/2 xícara de requeijão cremoso",
+            "Sal e pimenta a gosto",
+            "Salsinha e cebolinha a gosto"
+        ],
+        "modoPreparo": [
+            "Em uma tigela, misture a farinha de trigo, o sal, e o fermento.",
+            "Adicione a manteiga e misture até formar uma farofa.",
+            "Junte o ovo e o leite, e amasse até obter uma massa homogênea.",
+            "Separe a massa em duas partes, uma maior para a base e outra menor para cobrir.",
+            "Abra a massa maior com um rolo e forne o fundo e as laterais de uma forma untada.",
+            "Em uma panela, aqueça o óleo e refogue a cebola e o alho até dourar.",
+            "Acrescente o frango desfiado e refogue por alguns minutos.",
+            "Adicione o tomate, milho, ervilha, sal, pimenta e misture bem.",
+            "Desligue o fogo e acrescente o requeijão, salsinha e cebolinha. Misture até ficar cremoso.",
+            "Coloque o recheio sobre a massa na forma.",
+            "Abra a outra parte da massa e cubra a torta, fechando bem as bordas.",
+            "Pincele a massa com uma gema de ovo para dourar.",
+            "Leve ao forno pré-aquecido a 180°C por cerca de 35-40 minutos, ou até a massa ficar dourada."
+        ],
+        "imagem": "assets/img/tortafrango.jpg"
+    },
+
+    {
+        "id": 5,
+        "titulo": "Macarrão à Carbonara",
+        "descricao": "Modo de preparo de um clássico macarrão à carbonara, cremoso e cheio de sabor, que vai conquistar o paladar de todos!",
+        "destaque": true,
+        "ingredientes": [
+            "400g de macarrão espaguete",
+            "200g de bacon em cubos",
+            "3 ovos",
+            "1 xícara de queijo parmesão ralado",
+            "2 dentes de alho picados",
+            "Sal a gosto",
+            "Pimenta-do-reino a gosto",
+            "Salsinha picada para decorar (opcional)"
+        ],
+        "modoPreparo": [
+            "Cozinhe o macarrão em água fervente com sal, seguindo as instruções da embalagem, até ficar al\n                        dente. Reserve 1 xícara da água do cozimento e escorra o macarrão.",
+            "Enquanto o macarrão cozinha, em uma frigideira grande, frite o bacon em fogo médio até ficar\n                        crocante. Adicione o alho picado e refogue por mais 1 minuto.",
+            "Em uma tigela, bata os ovos e misture o queijo parmesão ralado. Tempere com pimenta-do-reino a\n                        gosto.",
+            "Adicione o macarrão escorrido à frigideira com o bacon e misture bem.",
+            "Desligue o fogo e adicione a mistura de ovos e queijo ao macarrão, mexendo rapidamente para que\n                        os ovos cozinhem com o calor residual, formando um creme. Se necessário, adicione um pouco da\n                        água do cozimento reservada para ajustar o ponto do molho.",
+            "Sirva imediatamente, decorando com salsinha picada e mais queijo parmesão ralado, se desejar.\n                    "
+        ],
+        "imagem": "assets/img/carbonara.jpg"
+    },
+
+    {
+        "id": 6,
+        "titulo": "Fettuccine Alfredo",
+        "descricao": "Clássico prato italiano de massa com molho cremoso de queijo parmesão, simples e delicioso!",
+        "destaque": false,
+        "ingredientes": [
+            "300 g de fettuccine",
+            "3 colheres de sopa de manteiga",
+            "1 xícara de creme de leite fresco",
+            "1 xícara de queijo parmesão ralado",
+            "Sal e pimenta-do-reino a gosto",
+            "Noz-moscada a gosto (opcional)"
+        ],
+        "modoPreparo": [
+            "Cozinhe o fettuccine em água fervente salgada até ficar al dente. Escorra e reserve.",
+            "Em uma frigideira grande, derreta a manteiga em fogo baixo e adicione o creme de leite, mexendo bem.",
+            "Acrescente o parmesão ralado e mexa até formar um molho cremoso.",
+            "Tempere com sal, pimenta e noz-moscada a gosto.",
+            "Adicione o fettuccine cozido ao molho, misture bem para envolver toda a massa e sirva imediatamente."
+        ],
+        "imagem": "assets/img/fettuccine.png"
+    },
+
+    {
+        "id": 7,
+        "titulo": "Macarrão Rondelli",
+        "descricao": "Delicioso macarrão tipo rondelli com molho cremoso, perfeito para um almoço especial!",
+        "destaque": false,
+        "ingredientes": [
+            "400g de macarrão rondelli",
+            "2 colheres de sopa de azeite",
+            "2 dentes de alho picados",
+            "1 cebola picada",
+            "300g de carne moída",
+            "1 lata de molho de tomate",
+            "1 xícara de creme de leite",
+            "100g de queijo parmesão ralado",
+            "Sal e pimenta-do-reino a gosto",
+            "Manjericão fresco para decorar"
+        ],
+        "modoPreparo": [
+            "Cozinhe o macarrão rondelli em água fervente com sal até ficar al dente. Escorra e reserve.",
+            "Em uma panela, aqueça o azeite e refogue o alho e a cebola até dourarem.",
+            "Adicione a carne moída e cozinhe até dourar, temperando com sal e pimenta.",
+            "Acrescente o molho de tomate e deixe cozinhar por 10 minutos em fogo baixo.",
+            "Adicione o creme de leite e metade do queijo parmesão, misturando bem até formar um molho cremoso.",
+            "Junte o macarrão cozido ao molho, misturando delicadamente para envolver todos os rondellis.",
+            "Sirva decorado com o restante do queijo parmesão e folhas de manjericão fresco."
+        ],
+        "imagem": "assets/img/rondelli.png"
+    },
+
+    {
+        "id": 8,
+        "titulo": "Lasanha à Bolonhesa",
+        "descricao": "Clássica lasanha com camadas de massa, carne moída, queijos e molho de tomate, perfeita para reunir a família!",
+        "destaque": false,
+        "ingredientes": [
+            "500 g de massa para lasanha",
+            "500 g de carne moída",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "2 xícaras de molho de tomate",
+            "500 g de queijo mussarela fatiado",
+            "300 g de presunto fatiado",
+            "2 colheres de sopa de óleo",
+            "Sal, pimenta-do-reino e orégano a gosto",
+            "Queijo parmesão ralado para gratinar"
+        ],
+        "modoPreparo": [
+            "Em uma panela, aqueça o óleo e refogue a cebola e o alho até dourarem.",
+            "Adicione a carne moída, tempere com sal e pimenta e cozinhe até secar a água.",
+            "Acrescente o molho de tomate e orégano. Cozinhe por mais 10 minutos e reserve.",
+            "Em uma travessa, monte a lasanha alternando camadas de molho, massa, presunto e mussarela.",
+            "Finalize com queijo parmesão ralado por cima.",
+            "Leve ao forno pré-aquecido a 180°C por cerca de 30 minutos ou até gratinar."
+        ],
+        "imagem": "assets/img/lasanha.png"
+    },
+
+    {
+        "id": 9,
+        "titulo": "Costelinha de Porco Assada",
+        "descricao": "Modo de preparo de uma deliciosa Costelinha de Porco Assada, perfeita à família!",
+        "destaque": true,
+        "ingredientes": [
+            "1 kg de costelinha de porco",
+            "4 dentes de alho picados",
+            "1 cebola média picada",
+            "1/2 xícara de molho de soja (shoyu)",
+            "1/4 xícara de mel",
+            "2 colheres de sopa de vinagre",
+            "2 colheres de sopa de óleo",
+            "1 colher de chá de páprica defumada",
+            "Sal e pimenta-do-reino a gosto",
+            "Salsinha picada para decorar (opcional)"
+        ],
+        "modoPreparo": [
+            "Em uma tigela, misture o alho, a cebola, o molho de soja, o mel, o vinagre, o óleo, a mostarda, a páprica defumada, o sal e a pimenta-do-reino.",
+            "Coloque as costelinhas em um recipiente ou saco plástico e despeje a marinada por cima. Certifique-se de que todas as peças estejam bem envolvidas.",
+            "Leve à geladeira e deixe marinar por pelo menos 2 horas (ou de um dia para o outro, para um sabor mais intenso).",
+            "Pré-aqueça o forno a 180°C.",
+            "Retire as costelinhas da marinada e coloque-as em uma assadeira. Reserve a marinada.",
+            "Asse as costelinhas por aproximadamente 1 hora, virando-as na metade do tempo e regando com a marinada reservada para que fiquem suculentas.",
+            "Aumente a temperatura do forno para 200°C e asse por mais 15-20 minutos, ou até que as costelinhas fiquem douradas e caramelizadas.",
+            "Retire do forno, decore com salsinha picada (se desejar) e sirva quente."
+        ],
+        "imagem": "assets/img/costelinha.png"
+    },
+
+    {
+        "id": 10,
+        "titulo": "Carne de Panela com Batatas",
+        "descricao": "Prato reconfortante de carne cozida na pressão com batatas, perfeito para dias frios!",
+        "destaque": false,
+        "ingredientes": [
+            "1 kg de músculo ou acém em cubos grandes",
+            "2 colheres de sopa de óleo",
+            "1 cebola picada",
+            "3 dentes de alho picados",
+            "2 tomates picados",
+            "1 colher de sopa de extrato de tomate",
+            "500 ml de água quente",
+            "4 batatas médias cortadas em cubos",
+            "Sal e pimenta-do-reino a gosto",
+            "Cheiro-verde picado para finalizar (opcional)"
+        ],
+        "modoPreparo": [
+            "Aqueça o óleo em uma panela de pressão e doure a carne em etapas para selar bem.",
+            "Adicione a cebola e o alho, refogando até ficarem dourados.",
+            "Junte os tomates e o extrato de tomate, misturando bem.",
+            "Acrescente a água quente, tempere com sal e pimenta a gosto, tampe a panela e cozinhe por cerca de 30 minutos após pegar pressão.",
+            "Desligue o fogo, retire a pressão, adicione as batatas e cozinhe por mais 10 minutos, sem pressão, até as batatas ficarem macias.",
+            "Finalize com cheiro-verde picado e sirva quente."
+        ],
+        "imagem": "assets/img/carnedepanela.jpg"
+    },
+
+    {
+        "id": 11,
+        "titulo": "Picanha na Manteiga",
+        "descricao": "Suculenta picanha grelhada na manteiga com alho, um clássico da churrascaria feito em casa!",
+        "destaque": false,
+        "ingredientes": [
+            "1 peça de picanha (aproximadamente 1 kg)",
+            "4 colheres de sopa de manteiga",
+            "4 dentes de alho picados",
+            "Sal grosso a gosto",
+            "Pimenta-do-reino a gosto",
+            "Ramos de alecrim (opcional)"
+        ],
+        "modoPreparo": [
+            "Tempere a picanha com sal grosso e pimenta-do-reino a gosto.",
+            "Em uma frigideira grande e funda, derreta a manteiga em fogo médio e adicione o alho picado.",
+            "Coloque a picanha na frigideira com a gordura voltada para baixo e sele bem todos os lados.",
+            "Adicione ramos de alecrim na manteiga para aromatizar, se desejar.",
+            "Continue regando a carne com a manteiga durante o cozimento, por aproximadamente 15 a 20 minutos, ou até o ponto desejado.",
+            "Retire do fogo, deixe descansar por 5 minutos, fatie e sirva regando com a manteiga de alho."
+        ],
+        "imagem": "assets/img/picanha.png"
+    },
+
+    {
+        "id": 12,
+        "titulo": "Torresmo Pururuca",
+        "descricao": "Crocante torresmo de barriga de porco com couro estufado, perfeito para acompanhar cerveja ou como petisco!",
+        "destaque": false,
+        "ingredientes": [
+            "1 kg de barriga de porco (panceta) com couro",
+            "Sal a gosto",
+            "Pimenta-do-reino a gosto",
+            "1 colher de sopa de vinagre",
+            "Óleo para fritar (opcional)"
+        ],
+        "modoPreparo": [
+            "Corte a barriga de porco em pedaços médios, mantendo o couro.",
+            "Tempere os pedaços com sal, pimenta-do-reino e o vinagre. Misture bem para que o tempero pegue em toda a carne.",
+            "Deixe descansar na geladeira por pelo menos 1 hora para pegar sabor.",
+            "Coloque os pedaços em uma panela grande, em fogo baixo, e deixe cozinhar na própria gordura, mexendo de vez em quando, até ficarem dourados e crocantes.",
+            "Se necessário, adicione um pouco de óleo para ajudar no processo de fritura.",
+            "Quando estiverem dourados, retire-os e deixe escorrer sobre papel-toalha.",
+            "Para pururucar: aqueça bem o óleo e jogue sobre o couro do torresmo, com cuidado, até que estufe e fique crocante.",
+            "Sirva quente e crocante."
+        ],
+        "imagem": "assets/img/torresmo.jpg"
+      }
     ] 
 }
