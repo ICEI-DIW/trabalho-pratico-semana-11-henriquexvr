@@ -4,18 +4,19 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Henrique Caldeira Assis Xavier
+- Matricula: 887526
+- Proposta de projeto escolhida: Site de Receitas
+- Breve descrição sobre seu projeto: Site de receitas com um receitas destaques em um carrosel, e receitas aleatorias em grid. No footer informações sobre o criador do site. Ao clicar em uma receita (no card ou no carrossel), leva diretamente para o modo de preparo e 
 
 **Print do teste da API com visualização do JSON**
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="jsonPreview.png">
+
 
 **Print da aba NETWORK com requisições Fetch/XHR**
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="networkPreview.png">
 
 ## **Orientações Gerais**
 
